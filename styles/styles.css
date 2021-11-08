@@ -3,11 +3,11 @@
 }
 
 body {
-    background-image: url(/assets/background.jpg);
+    /*background-image: url(/assets/background.jpg);
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;*/
     font-family: 'Open Sans', sans-serif;
     color: #393731;
 }
